@@ -13,17 +13,17 @@ select
   0 as total_discount_dollars, -- Assuming no discount_dollars found in the fact table
   'type' as type
 from 
-  {{ ref('gsynergy.staging.fact_staged') }} fa
+  {{ ref('fact_staged') }} fa
 left join 
-  {{ ref('gsynergy.staging.dim_point_of_sale') }} dpos
+  {{ ref('dim_point_of_sale') }} dpos
 on 
   fa.sku_id = dpos.site_id
 left join 
-  {{ ref('gsynergy.staging.dim_calendar') }} dc
+  {{ ref('dim_calendar') }} dc
 on 
   fa.fscldt_id = dc.date
 left join 
-  {{ ref('gsynergy.staging.dim_inventory_status') }} dis
+  {{ ref('dim_inventory_status') }} dis
 on 
   fa.sku_id = dis.ret_id
 group by 
