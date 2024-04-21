@@ -1,0 +1,92 @@
+site_id,site_label,subchnl_id,subchnl_label,chnl_id,chnl_label
+CATMAIN,Catalog Main,CATMAIN,Catalog Main,CAT,Catalog
+CATPROSP,Catalog Prospect,CATPROSP,Catalog Prospect,CAT,Catalog
+CATSALE,Catalog Sale,CATSALE,Catalog Sale,CAT,Catalog
+INETMAIN,Internet Main,INETMAIN,Internet Main,INET,Internet
+INETOUT,Internet Outlet,INETOUT,Internet Outlet,INET,Internet
+140,Avalon Alpharetta,RTLPOS,Retail POS,RTLPOS,Retail POS
+137,Greenway Station,RTLPOS,Retail POS,RTLPOS,Retail POS
+183,Galleria Edina,RTLPOS,Retail POS,RTLPOS,Retail POS
+196,Village at Meridian,RTLPOS,Retail POS,RTLPOS,Retail POS
+179,ABQ Uptown,RTLPOS,Retail POS,RTLPOS,Retail POS
+184,Mall in Columbia,RTLPOS,Retail POS,RTLPOS,Retail POS
+136,Short Pump,RTLPOS,Retail POS,RTLPOS,Retail POS
+153,Flatiron Crossing,RTLPOS,Retail POS,RTLPOS,Retail POS
+150,Kierland Commons,RTLPOS,Retail POS,RTLPOS,Retail POS
+127,Park Meadows,RTLPOS,Retail POS,RTLPOS,Retail POS
+151,Shops of Saddle Creek,RTLPOS,Retail POS,RTLPOS,Retail POS
+159,Orland Park,RTLPOS,Retail POS,RTLPOS,Retail POS
+192,Broadway Plaza,RTLPOS,Retail POS,RTLPOS,Retail POS
+202,Streets at Southpoint,RTLPOS,Retail POS,RTLPOS,Retail POS
+180,Eastview Mall,RTLPOS,Retail POS,RTLPOS,Retail POS
+132,La Cantera,RTLPOS,Retail POS,RTLPOS,Retail POS
+201,Alderwood Mall,RTLPOS,Retail POS,RTLPOS,Retail POS
+166,Jordan Creek,RTLPOS,Retail POS,RTLPOS,Retail POS
+144,Fairfax Corner,RTLPOS,Retail POS,RTLPOS,Retail POS
+169,Cedar Lodge,RTLPOS,Retail POS,RTLPOS,Retail POS
+173,Paddock Shops,RTLPOS,Retail POS,RTLPOS,Retail POS
+160,Arboretum Austin,RTLPOS,Retail POS,RTLPOS,Retail POS
+131,Chestnut Hill,RTLPOS,Retail POS,RTLPOS,Retail POS
+138,Market Street Lynnfield,RTLPOS,Retail POS,RTLPOS,Retail POS
+162,First Colony,RTLPOS,Retail POS,RTLPOS,Retail POS
+135,Town & Country Village,RTLPOS,Retail POS,RTLPOS,Retail POS
+203,Kingsgate Center,RTLPOS,Retail POS,RTLPOS,Retail POS
+115,STL County Library,RTLPOS,Retail POS,RTLPOS,Retail POS
+204,Danbury Fair Mall,RTLPOS,Retail POS,RTLPOS,Retail POS
+152,Annapolis Mall,RTLPOS,Retail POS,RTLPOS,Retail POS
+154,Blakeney,RTLPOS,Retail POS,RTLPOS,Retail POS
+194,Biltmore Village,RTLPOS,Retail POS,RTLPOS,Retail POS
+133,The Woodlands,RTLPOS,Retail POS,RTLPOS,Retail POS
+143,La Encantada,RTLPOS,Retail POS,RTLPOS,Retail POS
+170,Rochester Hills,RTLPOS,Retail POS,RTLPOS,Retail POS
+146,Bellevue Square,RTLPOS,Retail POS,RTLPOS,Retail POS
+129,Country Club Plaza,RTLPOS,Retail POS,RTLPOS,Retail POS
+176,Mount Pleasant,RTLPOS,Retail POS,RTLPOS,Retail POS
+148,Brinton Lake,RTLPOS,Retail POS,RTLPOS,Retail POS
+186,Victoria Gardens,RTLPOS,Retail POS,RTLPOS,Retail POS
+141,Paramus Park,RTLPOS,Retail POS,RTLPOS,Retail POS
+125,Arboretum,RTLPOS,Retail POS,RTLPOS,Retail POS
+165,Renaissance,RTLPOS,Retail POS,RTLPOS,Retail POS
+147,Crocker Park,RTLPOS,Retail POS,RTLPOS,Retail POS
+174,Village Pointe,RTLPOS,Retail POS,RTLPOS,Retail POS
+139,Bridgeport Village,RTLPOS,Retail POS,RTLPOS,Retail POS
+172,Coconut Point,RTLPOS,Retail POS,RTLPOS,Retail POS
+205,International Plaza,RTLPOS,Retail POS,RTLPOS,Retail POS
+171,Green Valley,RTLPOS,Retail POS,RTLPOS,Retail POS
+187,Sagemore,RTLPOS,Retail POS,RTLPOS,Retail POS
+199,Lakeside Shopping Ctr,RTLPOS,Retail POS,RTLPOS,Retail POS
+167,Preston Park,RTLPOS,Retail POS,RTLPOS,Retail POS
+128,Southlake,RTLPOS,Retail POS,RTLPOS,Retail POS
+198,Shops on El Paseo,RTLPOS,Retail POS,RTLPOS,Retail POS
+197,Shops at Rossmoor,RTLPOS,Retail POS,RTLPOS,Retail POS
+200,Mall at Green Hills,RTLPOS,Retail POS,RTLPOS,Retail POS
+130,Copley Place,RTLPOS,Retail POS,RTLPOS,Retail POS
+177,University Town Ctr,RTLPOS,Retail POS,RTLPOS,Retail POS
+178,Classen Curve,RTLPOS,Retail POS,RTLPOS,Retail POS
+142,Bridgewater Commons,RTLPOS,Retail POS,RTLPOS,Retail POS
+126,Burr Ridge,RTLPOS,Retail POS,RTLPOS,Retail POS
+188,Susquehanna,RTLPOS,Retail POS,RTLPOS,Retail POS
+118,Evergreen Walk,RTLPOS,Retail POS,RTLPOS,Retail POS
+185,Montgomery Village,RTLPOS,Retail POS,RTLPOS,Retail POS
+190,Spanish Springs,RTLPOS,Retail POS,RTLPOS,Retail POS
+191,Rookwood Commons,RTLPOS,Retail POS,RTLPOS,Retail POS
+163,Union Hill,RTLPOS,Retail POS,RTLPOS,Retail POS
+182,Hunt Valley,RTLPOS,Retail POS,RTLPOS,Retail POS
+145,Peachtree Parkway,RTLPOS,Retail POS,RTLPOS,Retail POS
+175,Easton Town Center,RTLPOS,Retail POS,RTLPOS,Retail POS
+193,The Falls,RTLPOS,Retail POS,RTLPOS,Retail POS
+113,The Boulevard,RTLPOS,Retail POS,RTLPOS,Retail POS
+195,St Johns Town Center,RTLPOS,Retail POS,RTLPOS,Retail POS
+158,Naperville,RTLPOS,Retail POS,RTLPOS,Retail POS
+189,Mission Viejo,RTLPOS,Retail POS,RTLPOS,Retail POS
+149,Chandler Fashion Center,RTLPOS,Retail POS,RTLPOS,Retail POS
+161,Avenue West Cobb,RTLPOS,Retail POS,RTLPOS,Retail POS
+134,King of Prussia,RTLPOS,Retail POS,RTLPOS,Retail POS
+164,Briargate,RTLPOS,Retail POS,RTLPOS,Retail POS
+181,Ross Park,RTLPOS,Retail POS,RTLPOS,Retail POS
+155,The Shops at Friendly Center,RTLPOS,Retail POS,RTLPOS,Retail POS
+157,Legacy Village,RTLPOS,Retail POS,RTLPOS,Retail POS
+156,The Summit,RTLPOS,Retail POS,RTLPOS,Retail POS
+168,Turkey Creek,RTLPOS,Retail POS,RTLPOS,Retail POS
+RTLOPCS,Retail OPCS,RTLOPCS,Retail OPCS,RTLOPCS,Retail OPCS
+site_id,site_label,subchnl_id,subchnl_label,chnl_id,chnl_label

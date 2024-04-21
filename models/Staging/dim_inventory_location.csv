@@ -1,0 +1,87 @@
+location_id,location_name,location_type,location_sub_type
+103,Catalog/Internet,DC,DC
+119,Retail,DC,DC
+130,Copley Place,Store,Store
+204,Danbury Fair Mall,Store,Store
+166,Jordan Creek,Store,Store
+194,Biltmore Village,Store,Store
+175,Easton Town Center,Store,Store
+202,Streets at Southpoint,Store,Store
+126,Burr Ridge,Store,Store
+167,Preston Park,Store,Store
+180,Eastview Mall,Store,Store
+197,Shops at Rossmoor,Store,Store
+179,ABQ Uptown,Store,Store
+134,King of Prussia,Store,Store
+184,Mall in Columbia,Store,Store
+199,Lakeside Shopping Ctr,Store,Store
+174,Village Pointe,Store,Store
+155,The Shops at Friendly Center,Store,Store
+128,Southlake,Store,Store
+187,Sagemore,Store,Store
+144,Fairfax Corner,Store,Store
+193,The Falls,Store,Store
+164,Briargate,Store,Store
+136,Short Pump,Store,Store
+189,Mission Viejo,Store,Store
+152,Annapolis,Store,Store
+140,Avalon Alpharetta,Store,Store
+159,Orland Park,Store,Store
+133,The Woodlands,Store,Store
+170,Rochester Hills,Store,Store
+158,Naperville,Store,Store
+160,Arboretum at Great Hills,Store,Store
+176,Mount Pleasant,Store,Store
+163,Union Hill,Store,Store
+157,Legacy Village,Store,Store
+191,Rookwood Commons,Store,Store
+172,Coconut Point,Store,Store
+205,International Plaza,Store,Store
+183,Galleria Edina,Store,Store
+185,Montgomery Village,Store,Store
+131,Chestnut Hill,Store,Store
+182,Hunt Valley,Store,Store
+138,Market Street Lynnfield,Store,Store
+178,Classen Curve,Store,Store
+198,Shops on El Paseo,Store,Store
+147,Crocker Park,Store,Store
+153,Flatiron Crossing,Store,Store
+150,Kierland Commons,Store,Store
+129,Country Club Plaza,Store,Store
+195,St Johns Town Center,Store,Store
+196,Village at Meridian,Store,Store
+113,The Boulevard,Store,Store
+142,Bridgewater Commons,Store,Store
+132,La Cantera,Store,Store
+203,Kingsgate Center,Store,Store
+188,Susquehanna,Store,Store
+165,Renaissance,Store,Store
+171,Green Valley,Store,Store
+154,Blakeney Shopping Center,Store,Store
+141,Paramus Park,Store,Store
+201,Alderwood Mall,Store,Store
+190,The Villages,Store,Store
+162,First Colony,Store,Store
+148,Brinton Lake,Store,Store
+143,La Encantada,Store,Store
+169,Cedar Lodge,Store,Store
+137,Greenway Station,Store,Store
+192,Broadway Plaza,Store,Store
+139,Bridgeport Village,Store,Store
+125,Arboretum,Store,Store
+145,Peachtree Parkway,Store,Store
+200,Mall at Green Hills,Store,Store
+161,Avenue West Cobb,Store,Store
+135,Town & Country Village,Store,Store
+118,Evergreen,Store,Store
+156,The Summit,Store,Store
+127,Park Meadows,Store,Store
+151,Shops of Saddle Creek,Store,Store
+168,Turkey Creek,Store,Store
+149,Chandler Fashion Center,Store,Store
+173,Paddock Shops,Store,Store
+181,Ross Park,Store,Store
+186,Victoria Gardens,Store,Store
+146,Bellevue Square,Store,Store
+177,University Town Ctr,Store,Store
+loc,loc_label,loctype,loctype_label

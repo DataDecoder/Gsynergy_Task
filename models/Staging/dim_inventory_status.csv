@@ -1,0 +1,247 @@
+ret_id,location_name,location_type,location_sub_type,state,status
+INV-880,In-Transit,IBIT,In-transit,IB,Inbound
+INV-850,Store On Order,IBOO,On Order,IB,Inbound
+INV-800,On Order,IBOO,On Order,IB,Inbound
+INV-875,ASN,IBOO,On Order,IB,Inbound
+INV-20,In Receiving,OHAV,Available,OH,On Hand
+INV-900,Available,OHAV,Available,OH,On Hand
+RET-93,ORIG RESOLVED / TRACER RESULTS,OHFA,Future Available,OH,On Hand
+RET-94,TRACER VERIFIED STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-648,SOFT St Johns Town Center - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-92,TRACER VERIFIED DIRECT SHIP RETURN,OHFA,Future Available,OH,On Hand
+RET-622,SOFT Hunt Valley - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-64,RECONDITIONING-SHOE & ACCESOR,OHFA,Future Available,OH,On Hand
+RET-62,RECONDITIONING-HANGING,OHFA,Future Available,OH,On Hand
+RET-23,PREPACK CREDIT VEND-DEFECTIVE,OHFA,Future Available,OH,On Hand
+INV-09,Waiting for coordinating pieces,OHFA,Future Available,OH,On Hand
+RET-646,SOFT Biltmore Village - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-520,SOFT CHESTNUT HILL - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-536,SOFT BRIDGEPORT VILLAGE - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-508,SOFT ARBORETUM - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-598,SOFT Rochester Hills - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-526,SOFT KING OF PRUSSIA - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-556,SOFT Chandler Fashion Center - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-550,SOFT Bellevue Square - STOCK RETURN,OHFA,Future Available,OH,On Hand
+INV-06,Needs to go to cleaners,OHFA,Future Available,OH,On Hand
+RET-548,SOFT Peachtree Parkway - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-606,SOFT Village Pointe - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-66,RECONDITIONED-RETURN TO STOCK,OHFA,Future Available,OH,On Hand
+RET-580,SOFT Avenue West Cobb - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-630,SOFT Victoria Gardens - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-516,SOFT CNTRY CLB PLZ - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-586,SOFT Briargate - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-70,DRY CLEANING,OHFA,Future Available,OH,On Hand
+RET-530,SOFT SHORT PUMP - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-542,SOFT Bridgewater Commons - STOCK RETURN,OHFA,Future Available,OH,On Hand
+INV-999,Restricted - No reason,OHFA,Future Available,OH,On Hand
+RET-552,SOFT Crocker Park - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-560,SOFT Shops of Saddle Creek - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-568,SOFT The Shops at Friendly Center - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-596,SOFT Cedar Lodge - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-566,SOFT Blakeney Shopping Center - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-660,SOFT Alderwood Mall - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-574,SOFT Main Street Promenade - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-518,SOFT COPLEY PLACE - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-634,SOFT Susquehanna - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-89,CUSTOMER DONATED,OHFA,Future Available,OH,On Hand
+RET-998,BEAUTY RETURN,OHFA,Future Available,OH,On Hand
+RET-632,SOFT Sagemore - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-612,SOFT University Town Ctr - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-668,SOFT International Plaza - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-614,SOFT Classen Curve - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-618,SOFT Eastview Mall - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-544,SOFT La Encantada - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-130,SOFT Copley Place - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-546,SOFT Fairfax Corner - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-640,SOFT 2018 New Store 1 - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-999,INVENTORY RESIZING,OHFA,Future Available,OH,On Hand
+INV-10,Missing parts,OHFA,Future Available,OH,On Hand
+RET-582,SOFT First Colony - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-24,PREPACK RETURN TO STOCK RUGS,OHFA,Future Available,OH,On Hand
+RET-562,SOFT Annapolis - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-662,SOFT Streets at Southpoint - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-522,SOFT LA CANTERA - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-60,RECONDITIONING-NEEDS PARTS,OHFA,Future Available,OH,On Hand
+RET-604,SOFT Paddock Shops - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-12,RETURN TO STOCK RUGS,OHFA,Future Available,OH,On Hand
+RET-554,SOFT Brinton Lake - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-590,SOFT Jordan Creek - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-72,QUALITY ASSURANCE CHECK,OHFA,Future Available,OH,On Hand
+RET-626,SOFT Mall in Columbia - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-514,SOFT SOUTHLAKE - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-624,SOFT Galleria Edina - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-592,SOFT Preston Park - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-666,SOFT Danbury Fair Mall - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-21,PREPACK RTN TO STOCK,OHFA,Future Available,OH,On Hand
+RET-997,RTV RETURN,OHFA,Future Available,OH,On Hand
+INV-13,Retouch/Repair,OHFA,Future Available,OH,On Hand
+RET-61,RECONDITIONING-STEAMING,OHFA,Future Available,OH,On Hand
+RET-510,SOFT BURR RIDGE - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-71,SEWING,OHFA,Future Available,OH,On Hand
+RET-96,TRACER VERIFIED PARTS RETURN,OHFA,Future Available,OH,On Hand
+INV-11,Add Packaging,OHFA,Future Available,OH,On Hand
+RET-99,IMMEDIATE REPLACEMENT,OHFA,Future Available,OH,On Hand
+RET-578,SOFT Arboretum at Great Hills - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-524,SOFT WOODLANDS - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-644,SOFT The Falls - STOCK RETURN,OHFA,Future Available,OH,On Hand
+INV-02,Shipments waiting for belts/buttons,OHFA,Future Available,OH,On Hand
+RET-588,SOFT Renaissance - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-652,SOFT Shops at Rossmoor - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-656,SOFT Lakeside Shopping Ctr - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-600,SOFT Green Valley - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-664,SOFT Kingsgate Center - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-506,SOFT EVERGREEN - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-512,SOFT PARK MEADOWS - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-594,SOFT Turkey Creek - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-638,SOFT The Villages - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-616,SOFT ABQ Uptown - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-22,PREPACK AS-IS,OHFA,Future Available,OH,On Hand
+INV-01,New Item,OHFA,Future Available,OH,On Hand
+RET-528,SOFT TOWN & COUNTRY - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-602,SOFT Coconut Point - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-608,SOFT Easton Town Center - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-584,SOFT Union Hill - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-564,SOFT Flatiron Crossing - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-32,AS-IS (NO PACKING),OHFA,Future Available,OH,On Hand
+RET-532,SOFT GREENWAY STATION - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-636,SOFT New 2018 Store 1 - STOCK RETURN,OHFA,Future Available,OH,On Hand
+INV-1000,Cycle Count,OHFA,Future Available,OH,On Hand
+RET-63,RECONDITIONING-FOLDED,OHFA,Future Available,OH,On Hand
+RET-65,PARTS ORDER,OHFA,Future Available,OH,On Hand
+INV-07,Needs to go to sewing/alterations,OHFA,Future Available,OH,On Hand
+RET-534,SOFT MARKET STREET LYNNFIELD - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-628,SOFT Montgomery Village - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-650,SOFT Village at Meridian - STOCK RETURN,OHFA,Future Available,OH,On Hand
+INV-98,STORE returns,OHFA,Future Available,OH,On Hand
+RET-538,SOFT AVALON ALPHARETTA - STOCK RETURN,OHFA,Future Available,OH,On Hand
+INV-03,Item restricted for Q.A. problem,OHFA,Future Available,OH,On Hand
+RET-11,RETURN TO STOCK,OHFA,Future Available,OH,On Hand
+RET-642,SOFT Broadway Plaza - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-540,SOFT PARAMUS PARK - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-576,SOFT Orland Park - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-620,SOFT Ross Park - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-558,SOFT Kierland Commons - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-610,SOFT Mount Pleasant - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-570,SOFT The Summit - STOCK RETURN,OHFA,Future Available,OH,On Hand
+INV-15,Mistag,OHFA,Future Available,OH,On Hand
+RET-654,SOFT Shops on El Paseo - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-572,SOFT Legacy Village - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-658,SOFT Mall at Green Hills - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-504,SOFT BRENTWOOD - STOCK RETURN,OHFA,Future Available,OH,On Hand
+RET-641,SOFT 2018 New Store 1 - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-669,SOFT International Plaza - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-565,SOFT Flatiron Crossing - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-44,DAMAGED BY UPS,OHUA,Unavailable,OH,On Hand
+RET-659,SOFT Mall at Green Hills - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-643,SOFT Broadway Plaza - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-627,SOFT Mall in Columbia - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-611,SOFT Mount Pleasant - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-45,DAMAGED BY FED. EXP.,OHUA,Unavailable,OH,On Hand
+RET-667,SOFT Danbury Fair Mall - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-505,SOFT BRENTWOOD - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-509,SOFT ARBORETUM - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-90,DESTROY ITEM-CUSTOMER,OHUA,Unavailable,OH,On Hand
+RET-649,SOFT St Johns Town Center - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-26,Store Transfer,OHUA,Unavailable,OH,On Hand
+RET-661,SOFT Alderwood Mall - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-531,SOFT SHORT PUMP - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-663,SOFT Streets at Southpoint - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-581,SOFT Avenue West Cobb - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-583,SOFT First Colony - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-519,SOFT COPLEY PLACE - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-18,Sent to Merch,OHUA,Unavailable,OH,On Hand
+INV-25,Parts Depletion,OHUA,Unavailable,OH,On Hand
+RET-537,SOFT BRIDGEPORT VILLAGE - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-665,SOFT Kingsgate Center - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-561,SOFT Shops of Saddle Creek - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-645,SOFT The Falls - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-4000,Order Processing,OHUA,Unavailable,OH,On Hand
+RET-543,SOFT Bridgewater Commons - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-653,SOFT Shops at Rossmoor - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-507,SOFT EVERGREEN - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-46,DAMAGED BY AIR BORNE,OHUA,Unavailable,OH,On Hand
+RET-609,SOFT Easton Town Center - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-621,SOFT Ross Park - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-553,SOFT Crocker Park - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-04,Damaged upon receipt,OHUA,Unavailable,OH,On Hand
+RET-535,SOFT MARKET STREET LYNNFIELD - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-563,SOFT Annapolis - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-525,SOFT WOODLANDS - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-575,SOFT Main Street Promenade - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-99,Other,OHUA,Unavailable,OH,On Hand
+RET-533,SOFT GREENWAY STATION - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-517,SOFT CNTRY CLB PLZ - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-633,SOFT Sagemore - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-529,SOFT TOWN & COUNTRY - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-33,CREDIT VENDOR-DEFECTIVE,OHUA,Unavailable,OH,On Hand
+RET-657,SOFT Lakeside Shopping Ctr - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-27,Damaged Store Transfers,OHUA,Unavailable,OH,On Hand
+RET-523,SOFT LA CANTERA - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-599,SOFT Rochester Hills - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-43,DAMAGED BY PRIORITY MAIL,OHUA,Unavailable,OH,On Hand
+INV-05,Defective/as is and cannot be returned to vendor,OHUA,Unavailable,OH,On Hand
+RET-527,SOFT KING OF PRUSSIA - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-613,SOFT University Town Ctr - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-589,SOFT Renaissance - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-629,SOFT Montgomery Village - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-619,SOFT Eastview Mall - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-607,SOFT Village Pointe - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-521,SOFT CHESTNUT HILL - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-587,SOFT Briargate - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-603,SOFT Coconut Point - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-549,SOFT Peachtree Parkway - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-555,SOFT Brinton Lake - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-88,ITEM DONATED-CARRIER,OHUA,Unavailable,OH,On Hand
+RET-631,SOFT Victoria Gardens - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-513,SOFT PARK MEADOWS - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-559,SOFT Kierland Commons - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-91,DESTROY ITEM-INHOUSE,OHUA,Unavailable,OH,On Hand
+RET-601,SOFT Green Valley - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-87,ITEM DESTROY-CARRIER,OHUA,Unavailable,OH,On Hand
+INV-30,Liquidation,OHUA,Unavailable,OH,On Hand
+RET-605,SOFT Paddock Shops - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-511,SOFT BURR RIDGE - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-597,SOFT Cedar Lodge - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-17,Carrier Claims,OHUA,Unavailable,OH,On Hand
+RET-617,SOFT ABQ Uptown - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-569,SOFT The Shops at Friendly Center - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-635,SOFT Susquehanna - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-637,SOFT New 2018 Store 1 - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-24,Moved to Lost,OHUA,Unavailable,OH,On Hand
+RET-639,SOFT The Villages - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-615,SOFT Classen Curve - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-23,Saving for T.O.P.,OHUA,Unavailable,OH,On Hand
+RET-651,SOFT Village at Meridian - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-47,DAMAGED BY OTHER,OHUA,Unavailable,OH,On Hand
+RET-48,DAMAGES-PROCESSED,OHUA,Unavailable,OH,On Hand
+INV-14,Sample ?,OHUA,Unavailable,OH,On Hand
+RET-547,SOFT Fairfax Corner - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-950,Allocated (ANS),OHUA,Unavailable,OH,On Hand
+RET-551,SOFT Bellevue Square - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-579,SOFT Arboretum at Great Hills - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-08,Size adjustment needed cross sells,OHUA,Unavailable,OH,On Hand
+RET-50,CUST RTN TO DS VENDOR,OHUA,Unavailable,OH,On Hand
+RET-515,SOFT SOUTHLAKE - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-131,SOFT Copley Place - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-623,SOFT Hunt Valley - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-12,To correct for actual quantity on hand,OHUA,Unavailable,OH,On Hand
+RET-647,SOFT Biltmore Village - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-5000,Work In Progress,OHUA,Unavailable,OH,On Hand
+RET-567,SOFT Blakeney Shopping Center - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-571,SOFT The Summit - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-19,Sent to Technical Design,OHUA,Unavailable,OH,On Hand
+RET-557,SOFT Chandler Fashion Center - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-539,SOFT AVALON ALPHARETTA - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-91,Miller WHS,OHUA,Unavailable,OH,On Hand
+RET-585,SOFT Union Hill - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-593,SOFT Preston Park - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-577,SOFT Orland Park - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-541,SOFT PARAMUS PARK - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-595,SOFT Turkey Creek - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-625,SOFT Galleria Edina - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+INV-21,Internal Transfer,OHUA,Unavailable,OH,On Hand
+RET-591,SOFT Jordan Creek - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-655,SOFT Shops on El Paseo - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-573,SOFT Legacy Village - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+RET-545,SOFT La Encantada - DAMAGE RETURN,OHUA,Unavailable,OH,On Hand
+code_id,code_label,bckt_id,bckt_label,ownrshp_id,ownrshp_label
